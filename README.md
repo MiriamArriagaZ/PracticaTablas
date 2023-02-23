@@ -1,2 +1,2 @@
-# PracticaTablas_MiriamArriagaZ.github.io
+# PracticaTablas
 Practica 2 sobre tablas
