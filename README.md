@@ -1,2 +1,2 @@
-# PracticaTablas.html
-Practica 2 sobre tablas
+# index.html
+Ejercicio integrador
